@@ -28,7 +28,9 @@
     }
 <p>And here are the results of this tuning:</p>
 
+
 ![SVG tuning results](./Zrzut ekranu 2023-05-03 201649.png?raw=true "SVG tuning results")
+
 
 <p>At the end I've used smaller C value based on personal experience, but I've also noticed from tuning that n_neg_per_pos parameter works best when 10.</p>
 
